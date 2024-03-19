@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>个人简介</title>
+    <style>
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div
+      style="
+        background-color: rgba(168, 167, 166, 0.425);
+        text-align: center;
+        padding: 40px;
+      "
+    >
+    
+      <img
+        src="https://t.aiqaq.com/wp-content/uploads/2023/12/20231221154915681-photo_2023-12-21_15-47-51.jpg"
+        alt="xzz"
+        width="80px"
+        height="80px
+      "
+      />
+      
+    </div>
+    <div style="
+    max-width: 700px;
+    margin: 30px auto;
+    padding: 15px;
+    line-height: 1.7;">
+        <p>okok 欢迎来到我的网站</p>
+        <p>暂时还没想好做什么先就这样吧哈哈哈哈</p>
+        <p>嘎嘎嘎</p>
+    
+    </div>
+    <div
+      style="
+        background-color: rgba(168, 167, 166, 0.425);
+        text-align: center;
+        padding: 40px;
+        font-size: 12px;
+      "
+    >
+      <p>联系我</p>
+      <a href="https://music.163.com/#/user/home?id=1466571204">我的网易云</a>
+      <a href=" https://v.douyin.com/iFurPG1g/ ">我的抖音
+    </div>
+  </body>
+</html>
